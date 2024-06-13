@@ -1,9 +1,9 @@
-# Example Forge Mod for Minecraft 1.7.10
+# Example Forge Mod for Minecraft 1.8.9
 
 [![](https://jitpack.io/v/GTNewHorizons/ExampleMod1.7.10.svg)](https://jitpack.io/#GTNewHorizons/ExampleMod1.7.10)
 [![](https://github.com/GTNewHorizons/ExampleMod1.7.10/actions/workflows/build-and-test.yml/badge.svg)](https://github.com/GTNewHorizons/ExampleMod1.7.10/actions/workflows/build-and-test.yml)
 
-An example mod for Minecraft 1.7.10 with Forge focussed on a stable, updatable setup.
+An example mod for Minecraft 1.8.9 with Forge focussed on a stable, updatable setup.
 
 ### Motivation
 

@@ -1,15 +1,6 @@
 
 pluginManagement {
     repositories {
-        maven {
-            // RetroFuturaGradle
-            name "GTNH Maven"
-            url "https://nexus.gtnewhorizons.com/repository/public/"
-            mavenContent {
-                includeGroup("com.gtnewhorizons")
-                includeGroupByRegex("com\\.gtnewhorizons\\..+")
-            }
-        }
         gradlePluginPortal()
         mavenCentral()
         mavenLocal()
@@ -17,5 +8,5 @@ pluginManagement {
 }
 
 plugins {
-    id 'com.gtnewhorizons.gtnhsettingsconvention' version '1.0.21'
+    id 'com.gtnewhorizons.gtnhsettingsconvention' version 'fa0ddb9.dirty'
 }
